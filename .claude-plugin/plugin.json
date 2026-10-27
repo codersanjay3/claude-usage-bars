@@ -1,0 +1,1 @@
+{ "name": "usage-bars", "version": "0.1.0", "description": "Two bars above the prompt: your usage limit and your context window, each with a percentage.", "types": "./types/index.d.ts" }
